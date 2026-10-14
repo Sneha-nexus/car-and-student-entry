@@ -27,7 +27,7 @@ class Student {
 
     public static void main(String[] args) {
         Student s1 = new Student();
-        s1.setName("Kishan");
+        s1.setName("Sneha");
         s1.setAge(19);
         s1.setMarks(88.5);
 
